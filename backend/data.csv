@@ -1,0 +1,101 @@
+id,question,answer,article_link,tags,feedback
+1,What is ExampleApp?,ExampleApp is a sample platform for demonstrating CSV data.,https://example.com,overview;platform,3
+2,How do I sign up for ExampleApp?,You can sign up by visiting the ExampleApp homepage and clicking "Register".,https://example.com/signup,signup;registration,4
+3,What features does ExampleApp offer?,ExampleApp offers analytics, reporting, and user management tools.,https://example.com/features,features;analytics,2
+4,How do I reset my password?,Click "Forgot Password" on the login page and follow the instructions.,https://example.com/reset-password,account;password,5
+5,Where can I find support?,Support is available via email or the help center.,https://example.com/support,support;help,1
+6,Is ExampleApp free?,ExampleApp offers a free plan with limited features.,https://example.com/pricing,pricing;free,3
+7,How do I contact ExampleApp?,You can contact us through the contact form on our website.,https://example.com/contact,contact,2
+8,What is the privacy policy?,The privacy policy explains how your data is handled.,https://example.com/privacy,privacy;policy,4
+9,How do I delete my account?,Go to account settings and select "Delete Account".,https://example.com/account,account;delete,5
+10,Can I export my data?,Yes, you can export your data from the dashboard.,https://example.com/export,data;export,1
+11,How do I change my email address?,Update your email in the account settings section.,https://example.com/account,email;settings,2
+12,What browsers are supported?,ExampleApp supports Chrome, Firefox, and Edge.,https://example.com/browsers,support;browser,3
+13,How do I upgrade my plan?,Go to billing and select a new plan.,https://example.com/billing,upgrade;billing,4
+14,Can I invite team members?,Yes, you can invite team members from the dashboard.,https://example.com/team,team;invite,5
+15,Is there a mobile app?,ExampleApp is available on iOS and Android.,https://example.com/mobile,mobile;app,1
+16,How do I enable notifications?,Enable notifications in your profile settings.,https://example.com/notifications,notifications;settings,2
+17,What payment methods are accepted?,We accept credit cards and PayPal.,https://example.com/payment,payment;billing,3
+18,How do I view my usage?,Usage details are available in your dashboard.,https://example.com/usage,usage;dashboard,4
+19,Can I customize my dashboard?,Yes, dashboards are customizable.,https://example.com/customize,customize;dashboard,5
+20,How do I report a bug?,Report bugs via the support page.,https://example.com/support,bug;support,1
+21,How do I change my password?,Change your password in account settings.,https://example.com/account,password;settings,2
+22,Is my data secure?,We use industry-standard security practices.,https://example.com/security,security;data,3
+23,How do I access API documentation?,API docs are available online.,https://example.com/api,api;documentation,4
+24,Can I integrate with third-party apps?,Yes, integrations are supported.,https://example.com/integrations,integrations;apps,5
+25,How do I unsubscribe from emails?,Manage email preferences in your profile.,https://example.com/emails,email;unsubscribe,1
+26,What is the refund policy?,Refunds are processed within 7 days.,https://example.com/refund,refund;policy,2
+27,How do I set up two-factor authentication?,Enable 2FA in security settings.,https://example.com/2fa,security;2fa,3
+28,Can I schedule reports?,Yes, scheduled reports are available.,https://example.com/reports,reports;schedule,4
+29,How do I reset my API key?,Reset your API key in developer settings.,https://example.com/api-key,api;reset,5
+30,What languages are supported?,ExampleApp supports English and Spanish.,https://example.com/languages,languages;support,1
+31,How do I delete a team member?,Remove team members in the team settings.,https://example.com/team,team;delete,2
+32,Can I merge accounts?,Contact support to merge accounts.,https://example.com/support,account;merge,3
+33,How do I view invoices?,Invoices are available in billing.,https://example.com/invoices,billing;invoices,4
+34,Is there a free trial?,Yes, a 14-day free trial is available.,https://example.com/trial,trial;free,5
+35,How do I change my username?,Edit your username in profile settings.,https://example.com/profile,profile;username,1
+36,Can I use ExampleApp offline?,Offline mode is not currently supported.,https://example.com/offline,offline;support,2
+37,How do I export reports?,Export options are in the reports section.,https://example.com/reports,export;reports,3
+38,What is the uptime guarantee?,We guarantee 99.9% uptime.,https://example.com/uptime,uptime;guarantee,4
+39,How do I access beta features?,Join the beta program in your settings.,https://example.com/beta,beta;features,5
+40,Can I change my subscription?,Manage subscriptions in billing.,https://example.com/billing,subscription;change,1
+41,How do I add a payment method?,Add payment methods in billing settings.,https://example.com/payment,payment;add,2
+42,What is the SLA?,Our SLA is available on the website.,https://example.com/sla,sla;support,3
+43,How do I contact sales?,Contact sales via the sales page.,https://example.com/sales,sales;contact,4
+44,Can I pause my subscription?,Pausing subscriptions is not supported.,https://example.com/billing,subscription;pause,5
+45,How do I access archived data?,Archived data is in the data section.,https://example.com/archive,archive;data,1
+46,What is the roadmap?,The roadmap is published online.,https://example.com/roadmap,roadmap;features,2
+47,How do I enable dark mode?,Enable dark mode in appearance settings.,https://example.com/darkmode,appearance;darkmode,3
+48,Can I request a feature?,Submit feature requests via support.,https://example.com/support,feature;request,4
+49,How do I print a report?,Use the print option in reports.,https://example.com/reports,print;report,5
+50,Is there a knowledge base?,Yes, the knowledge base is online.,https://example.com/knowledge,knowledge;base,1
+51,How do I update billing info?,Update billing info in billing settings.,https://example.com/billing,billing;update,2
+52,Can I use SSO?,SSO is supported for enterprise plans.,https://example.com/sso,sso;enterprise,3
+53,How do I manage notifications?,Manage notifications in your profile.,https://example.com/notifications,notifications;manage,4
+54,What is the maximum file size?,The max file size is 100MB.,https://example.com/files,files;size,5
+55,How do I recover deleted data?,Contact support for data recovery.,https://example.com/support,data;recovery,1
+56,Can I customize email templates?,Email templates are customizable.,https://example.com/emails,email;customize,2
+57,How do I view audit logs?,Audit logs are in the security section.,https://example.com/audit,audit;logs,3
+58,Is there a sandbox environment?,Yes, a sandbox is available.,https://example.com/sandbox,sandbox;environment,4
+59,How do I set permissions?,Set permissions in team settings.,https://example.com/team,permissions;team,5
+60,Can I import data?,Data import is supported.,https://example.com/import,import;data,1
+61,How do I change notification sounds?,Change sounds in notification settings.,https://example.com/notifications,notifications;sound,2
+62,What is the retention policy?,Retention policy is detailed online.,https://example.com/retention,retention;policy,3
+63,How do I access logs?,Logs are available in the admin section.,https://example.com/logs,logs;admin,4
+64,Can I use webhooks?,Webhooks are supported.,https://example.com/webhooks,webhooks;integrations,5
+65,How do I set up integrations?,Set up integrations in the integrations section.,https://example.com/integrations,integrations;setup,1
+66,What is the API rate limit?,API rate limits are published online.,https://example.com/api,api;rate,2
+67,How do I view user activity?,User activity is in the dashboard.,https://example.com/activity,activity;user,3
+68,Can I schedule maintenance?,Maintenance can be scheduled in admin.,https://example.com/maintenance,maintenance;schedule,4
+69,How do I update my profile picture?,Update your picture in profile settings.,https://example.com/profile,profile;picture,5
+70,Is there a changelog?,The changelog is available online.,https://example.com/changelog,changelog;updates,1
+71,How do I set up alerts?,Set up alerts in the alerts section.,https://example.com/alerts,alerts;setup,2
+72,Can I export user lists?,User lists can be exported from admin.,https://example.com/users,users;export,3
+73,How do I manage API tokens?,Manage tokens in developer settings.,https://example.com/api,tokens;api,4
+74,What is the backup policy?,Backup policy is published online.,https://example.com/backup,backup;policy,5
+75,How do I view system status?,System status is on the status page.,https://example.com/status,status;system,1
+76,Can I use ExampleApp for business?,Yes, business plans are available.,https://example.com/business,business;plans,2
+77,How do I access training materials?,Training materials are online.,https://example.com/training,training;materials,3
+78,What is the minimum system requirement?,Minimum requirements are listed online.,https://example.com/requirements,requirements;system,4
+79,How do I submit a ticket?,Submit tickets via the support page.,https://example.com/support,support;ticket,5
+80,Can I use ExampleApp internationally?,Yes, ExampleApp is available globally.,https://example.com/global,global;international,1
+81,How do I set up billing alerts?,Set up billing alerts in billing settings.,https://example.com/billing,billing;alerts,2
+82,What is the data processing agreement?,The DPA is available online.,https://example.com/dpa,dpa;data,3
+83,How do I manage user roles?,Manage roles in team settings.,https://example.com/team,roles;user,4
+84,Can I use ExampleApp for education?,Yes, education plans are available.,https://example.com/education,education;plans,5
+85,How do I access the admin panel?,Admin panel is at /admin.,https://example.com/admin,admin;panel,1
+86,What is the support response time?,Support responds within 24 hours.,https://example.com/support,support;response,2
+87,How do I set up custom domains?,Set up custom domains in settings.,https://example.com/domains,domains;custom,3
+88,Can I use ExampleApp for nonprofits?,Yes, nonprofit plans are available.,https://example.com/nonprofit,nonprofit;plans,4
+89,How do I view API usage?,API usage is in developer settings.,https://example.com/api,api;usage,5
+90,What is the cookie policy?,Cookie policy is published online.,https://example.com/cookies,cookies;policy,1
+91,How do I manage subscriptions?,Manage subscriptions in billing.,https://example.com/billing,subscriptions;manage,2
+92,Can I use ExampleApp with LDAP?,LDAP integration is supported.,https://example.com/ldap,ldap;integration,3
+93,How do I access the help center?,Help center is available online.,https://example.com/help,help;center,4
+94,What is the uptime history?,Uptime history is published online.,https://example.com/uptime,uptime;history,5
+95,How do I set up SAML?,Set up SAML in security settings.,https://example.com/saml,saml;security,1
+96,Can I use ExampleApp for research?,Yes, research plans are available.,https://example.com/research,research;plans,2
+97,How do I view audit trails?,Audit trails are in the security section.,https://example.com/audit,audit;trails,3
+98,What is the escalation process?,Escalation process is detailed online.,https://example.com/escalation,escalation;support,4
+99,How do I update my phone number?,Update your phone in profile settings.,https://example.com/profile,profile;phone,5
+100,Can I use ExampleApp for events?,Yes, event plans are available.,https://example.com/events,events;plans,1
